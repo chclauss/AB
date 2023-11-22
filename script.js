@@ -43,6 +43,10 @@ const instructions = [
         description: "Press the button below 'Enter' to login the phone.  It it worked, you won't need to do this again.  If the login did not work, check your extension and password and try again.",
 		imageUrl: "image11.jpg"
     },
+	{
+        description: "If all was successful you should now see a phone logged in showing your extension number. <br><br>If you are seeing something else, <br>please advise the hosts of this call.",
+		imageUrl: "image12.jpg"
+    }
 	
 ];
 
