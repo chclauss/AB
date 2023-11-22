@@ -8,7 +8,7 @@ const instructions = [
         imageUrl: "image2.jpg"
     },
     {
-        description: "Using the round pad <sup>(1)</sup>, press down until your highlight <br>'Reset to Defaults'. <sup>(2)</sup><br>Press the button below the work 'Select'. <sup>(3)</sup>",
+        description: "Using the round pad <sup>(1)</sup>, press down until you highlight <br>'Reset to Defaults'. <sup>(2)</sup><br>Press the button below the work 'Select'. <sup>(3)</sup>",
         imageUrl: "image3.jpg"
     },
     {
@@ -16,7 +16,7 @@ const instructions = [
         imageUrl: "image4.jpg"
     },
     {
-        description: "Wait 4 minutes until the phone restarts.  Don't press any keys.  If everything worked, you will see a login screen, and go to the next screen for further instructions.<br><br>If you don't see a login screen, try power cycling your phone and try one more time.  Click on Start Over below.",
+        description: "Wait 4 minutes until the phone restarts.  <br><br>When you see the blue box asking if you wish to <br>activate Auto Provisioning now,<br><b>press the button below 'Yes'.</b>  <br><br>Be patient while the phone restarts. <br><br>If everything worked, you will see a login screen, and go to the next screen for further instructions.<br><br>If you don't see a login screen, try power cycling your phone and try one more time.  Click on Start Over below.",
         imageUrl: "image5.jpg"
     },
     {
@@ -28,12 +28,24 @@ const instructions = [
 		imageUrl: "image7.jpg"
     },
 	{
-        description: "Now start entering your password. <br>Enter digits using the phone keypad. <br>To enter a symbol like '#' or '%', the button below 'Symbol'.<br>Go to the next page to learn how to enter a symbol.",
+        description: "Your password starts with '%' so press the button below 'Symbol' on screen.",
 		imageUrl: "image8.jpg"
     },
 	{
-        description: "To enter a symbol, use the circle button <sup>(1)</sup> to move to the symbol you need <sup>(2)</sup>. <br>Press the button below 'Insert' <sup>(3)</sup>to add the symbol.",
+        description: "Use the circle button <sup>(1)</sup> to move to the '%' symbol<sup>(2)</sup>. <br>Press the button below 'Insert' <sup>(3)</sup>to add the symbol.",
 		imageUrl: "image9.jpg"
+    },
+	{
+        description: "Now type in <b>'2637'</b> on the numberic keypad.",
+		imageUrl: "image8.jpg"
+    },
+	{
+        description: "Use the circle button <sup>(1)</sup> to move to the '#' symbol<sup>(2)</sup>. <br>Press the button below 'Insert' <sup>(3)</sup>to add the symbol.",
+		imageUrl: "image9a.jpg"
+    },
+	{
+        description: "Now type in the rest of the password that was provided to you on the numberic keypad.",
+		imageUrl: "image8.jpg"
     },
 	{
         description: "When you are finished entering your password, press the button below 'More' to continue.",
