@@ -57,7 +57,7 @@ function showInstruction(page) {
         <h2>${currentInstruction.description}</h1>
         <button onclick="showInstruction(${Math.max(currentPage - 1, 0)})">Previous</button>
         ${currentPage < instructions.length - 1 ? `<button onclick="showInstruction(${Math.min(currentPage + 1, instructions.length - 1)})">Next</button>` : ''}
-        <button onclick="parent.location='reset.html'">Start Over</button>
+        <button onclick="parent.location='index.html'">Start Over</button>
         <br>
         <img src="${currentInstruction.imageUrl}" alt="Instruction Image">
     `;
