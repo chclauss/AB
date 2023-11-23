@@ -36,7 +36,7 @@ const instructions = [
 		imageUrl: "image9.jpg"
     },
 	{
-        description: "Now type in <b>'2637'</b> on the numberic keypad.",
+        description: "Now type in <b>'2637'</b> on the numberic keypad.  Then press the button below 'Symbol' again.",
 		imageUrl: "image8.jpg"
     },
 	{
