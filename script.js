@@ -56,7 +56,7 @@ const instructions = [
 		imageUrl: "image11.jpg"
     },
 	{
-        description: "If all was successful you should now see a phone logged in showing your extension number. <br><br>If you are seeing something else, <br>please advise the hosts of this call.",
+        description: "If all was successful you should now see a phone logged in showing your extension number. <br><br>If you are seeing something else, <br>please advise the hosts of this call.<br><br><b>Note - you <u>can not</u> make outbound calls from the phone.</b>",
 		imageUrl: "image12.jpg"
     }
 	
