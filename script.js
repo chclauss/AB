@@ -88,7 +88,7 @@ const instructions = [
 		imageUrl: "image18.jpg"
     },
 	{
-        description: "You will be returned to the login screen. If your extension and password are not filled in, enter them here now and press 'Log In'.  <b>Note -</b> If you receive a message stating 'Existing Login Detected', <u>ensure you have entered your correct extension</u>. If correct, select Yes. If not correct, select No, and enter your correct extension.",
+        description: "You will be returned to the login screen. If your extension and password are not filled in, enter them here now and press 'Log In'. <b>Note -</b> If you receive a message stating 'Existing Login Detected', <u>ensure you have entered your correct extension</u>. If correct, select Yes. If not correct, select No, and enter your correct extension.",
 		imageUrl: "image19.jpg"
     }
 	
