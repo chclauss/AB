@@ -56,9 +56,44 @@ const instructions = [
 		imageUrl: "image11.jpg"
     },
 	{
-        description: "If all was successful you should now see a phone logged in showing your extension number. <br><br>If you are seeing something else, <br>please advise the hosts of this call.",
+        description: "If all was successful you should now see a phone logged in showing your extension number. <br><br>If you are seeing something else, <br>please advise the hosts of this call.<br><br><b>Note - you <u>can not</u> make outbound calls from the phone.</b><br><br>You can proceed on the next screen to configure your Communicator Software.",
 		imageUrl: "image12.jpg"
+    },
+	{
+        description: "Next, configure the software on your computer.  Click the icon on your desktop.  <u>If you do not see the icon on your desktop, select the Windows start icon in the bottom left corner of the screen.</u>  Look for the Avaya folder and select the Avaya One-X Communicator program.",
+		imageUrl: "image13.jpg"
+    },
+	{
+        description: "Communicator will start, and you will see an installation windows for a short time.  You will then see a login screen",
+		imageUrl: "image13a.jpg"
+    },
+	{
+        description: "The login screen will appear. <b>If your extension and password are not pre-populated, enter them here.</b><br><br>  Select the Gear icon in the upper right corner of the window and select 'Settings'.",
+		imageUrl: "image14.jpg"
+    },
+	{
+        description: "From the Left-Hand Menu under Devices and Services, Select Phone Numbers.  Click Add.  A Phone Number window will appear.",
+		imageUrl: "image15.jpg"
+    },
+	{
+        description: "In the 'Name' field enter 'SIP Phone'.  In the 'Number' field enter the extension number that is on the label on the back of your phone.  Press OK",
+		imageUrl: "image16.jpg"
+    },
+	{
+        description: "From the Left-Hand Menu under Devices and Services, Select Outgoing Calls.",
+		imageUrl: "image17.jpg"
+    },
+	{
+        description: "Under Place and receive calls using, Select the dropdown arrow and Select Other Phone – SIP Phone which you added in the last step.  Click OK.",
+		imageUrl: "image18.jpg"
+    },
+	{
+        description: "You will be returned to the login screen. If your extension and password are not filled in, enter them here now and press 'Log In'. <b>Note -</b> If you receive a message stating 'Existing Login Detected', <u>ensure you have entered your correct extension</u>. If correct, select Yes. If not correct, select No, and enter your correct extension.",
+		imageUrl: "image19.jpg"
     }
+	
+	
+		
 	
 ];
 
