@@ -36,11 +36,11 @@ const instructions = [
 		imageUrl: "image9.jpg"
     },
 	{
-        description: "Now type in <b>'2637'</b> on the numberic keypad.  Then press the button below 'Symbol' again.",
+        description: "Now type in <b>'2637'</b> on the numberic keypad.  <br><br><b><mark>Don't press the # button on the keypad.</mark></b><br><br>Then press the button below 'Symbol' again.",
 		imageUrl: "image8.jpg"
     },
 	{
-        description: "Use the circle button <sup>(1)</sup> to move to the '#' symbol<sup>(2)</sup>. <br>Press the button below 'Insert' <sup>(3)</sup>to add the symbol.",
+        description: "<b><mark>Don't press the # button on the keypad.</mark></b>  <br><br>Use the circle button <sup>(1)</sup> to move to the '#' symbol<sup>(2)</sup>. <br>Press the button below 'Insert' <sup>(3)</sup>to add the symbol.",
 		imageUrl: "image9a.jpg"
     },
 	{
