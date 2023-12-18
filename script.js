@@ -16,7 +16,7 @@ const instructions = [
         imageUrl: "image4.jpg"
     },
     {
-        description: "Wait 4 minutes until the phone restarts.  <br><br>When you see the blue box asking if you wish to <br>activate Auto Provisioning now,<br><b>press the button below 'Yes'.</b>  <br><br>Be patient while the phone restarts. <br><br><b><mark>If the phone asks for an enrollment code, enter <u>76007320</u>.</mark><b>  <br><br>If everything worked, you will see a login screen, and go to the next screen for further instructions.<br><br>If you don't see a login screen, try power cycling your phone and try one more time.  Click on Start Over below.",
+        description: "Wait 4 minutes until the phone restarts.  <br><br>When you see the blue box asking if you wish to <br>activate Auto Provisioning now,<br><b>press the button below 'Yes'.</b>  <br><br>Be patient while the phone restarts. <br><br><b><mark>If the phone asks for an enrollment code, enter <u>48587597</u>.</mark><b>  <br><br>If everything worked, you will see a login screen, and go to the next screen for further instructions.<br><br>If you don't see a login screen, try power cycling your phone and try one more time.  Click on Start Over below.",
         imageUrl: "image5.jpg"
     },
     {
